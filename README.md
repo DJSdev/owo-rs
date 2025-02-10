@@ -2,14 +2,20 @@
 
 Based on the fine work from https://github.com/zuzak/owo
 
+## Add to project
+
+```sh
+cargo add owo-rs
+```
+
 ## Usage
 
 ```rust
 use owo;
 
 fn main() {
-    println!("{}", owo::owo("Jimmy Carter wins posthumous Grammy for narrating an audiobook of his Sunday school lessons".to_string()))
+    println!("{}", owo::owo("Hello, world!".to_string()))
 }
 
-// UwU Jimmy Cawtew wins posthumous Gwammy fow nawwating an audiobook of his Sunday schoow wessons ;3
+// H-hewwo?? Hewwo, wowwd! x3
 ```
