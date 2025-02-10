@@ -2,6 +2,11 @@
 name = "owo"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "make your logs more owo"
+repository = "https://github.com/DJSdev/owo-rs"
+readme = "README.md"
+keywords = ["owo", "log", "funny", "meme", "library"]
 
 [lib]
 name = "owo"
